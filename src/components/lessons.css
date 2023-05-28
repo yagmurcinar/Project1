@@ -1,0 +1,23 @@
+.lessonscontainer{
+    /* margin-top: 0 !important;
+    padding: 0 !important; */
+    display: flex;
+    justify-content: center;
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+}
+.mainpic{
+    width: 90%;
+    height: 20rem;
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+.btntype{
+    justify-content: center;
+}
+.cardpic{
+    width: 40%;
+}
+.cardCol{
+    padding: 10px;
+}

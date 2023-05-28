@@ -1,0 +1,90 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.header-group{
+    display: inline;
+    align-items: center; 
+    width: 100%;
+    height: 20% !important;
+   
+}
+.navbar-group{
+    position: relative;
+    padding: 7px;
+}
+.navbar-style{
+    margin-left: 35px;
+}
+.login-signin{
+    display: flex;
+    justify-content: flex-end; 
+}
+.login{
+    border: 1px solid black;
+    margin-right: 35px;
+}
+.signin{
+    border: 1px solid black;
+    margin-right: 30px;
+}
+.link-style{
+    text-align: center;
+}
+.input-style{
+position: relative;
+background-color: black;
+border-radius: 25px;
+margin-right: 200px;
+margin-left: -250px;
+}
+.button-input-group{
+    width: 35%;
+}
+input:focus{
+    outline:none;
+}
+input{
+    width: 100%;
+    height: 100%;
+    display: block;
+    border-radius: 25px;
+    font-size: 20px;
+    padding: 12px 40px 12px 20px;
+    border: 1.4px groove black;
+}
+button {
+    position: absolute;
+    right: 0;
+    width: 50px;
+    height: 100%;
+    cursor: pointer;
+    border: none;
+    background: none;
+    font-size: 18px;
+    
+}
+button i{
+    color: rgb(93,94,95);
+  
+}
+button:hover i {
+    color: rgb(162, 163, 163);
+}
+.categories-style{
+    margin-left:-220px
+}
+.dropdown-menu{
+    width: 10px !important;
+   
+}
+.my-learning{
+  justify-content: end;
+  margin-right: 30px;   
+}
+.my-learning a{
+    text-decoration: none;
+}
+.dropdown-item a{
+    text-decoration: none;
+}

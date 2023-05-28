@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.removeToCard{
+
+                        width: 90px;
+                        height: 50px;
+                        position: unset;
+                        margin-top: 25px;
+}
